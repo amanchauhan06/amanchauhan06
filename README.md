@@ -1,34 +1,87 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://geekyants.com/aman-chauhan/)
-<h1 align="center" dir="auto" font-size=20%> Visitor Count! 👁️ </h1>
 
-  
-<table align="center">
-  <tr>
-    <td>You are visitor ❤️</td>
-    <td><img src="https://profile-counter.glitch.me/{amanchauhan06}/count.svg" alt="Contador visitas" /></td>
-  </tr>
-</table>
 <h1 align="center">Hi 👋, I'm Aman Chauhan</h1>
-<h3 align="center">I am a full-stack developer with experience in mobile app development and robust backend development</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">Senior Experience Engineer | System Architecture | Cloud-Native Solutions</h3>
 
-- 🌱 I’m currently learning **Springboot backend development, core Java**
+<br/>
 
-- 👯 I’m looking to collaborate on **Springboot projects**
-
-- 📝 I regularly write articles on [https://geekyants.com/blog/developing-a-stock-market-app-backend/](https://geekyants.com/blog/developing-a-stock-market-app-backend/)
-
-- 💬 Ask me about **Flutter,dart,Node.js, Kubernetes, docker, Dapr, Hasura, Firebase, Postgres, Express**
-
-- 📫 How to reach me **amanc@geekyants.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amanchauhan06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanchauhan06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amanchauhan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanchauhan7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16412404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16412404" height="30" width="40" /></a>
-<a href="https://instagram.com/im.aman23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.aman23" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/amanchauhan7" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://twitter.com/amanchauhan06" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://stackoverflow.com/users/16412404" target="blank"><img align="center" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
+  <a href="https://geekyants.com/blog/developing-a-stock-market-app-backend/" target="blank"><img align="center" src="https://img.shields.io/badge/-Technical%20Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br/>
+
+I am a Senior Experience Engineer based in the Delhi/NCR region, passionate about unraveling complex business problems through clean architecture, distributed systems, and scalable code. With over 5 years of engineering experience, I specialize in transitioning legacy monoliths into resilient microservices and building high-performance serverless applications for global enterprise clients.
+
+As an engineering leader, I believe that building great software requires more than just writing code. It involves mentoring development pods, setting rigorous technical standards, and designing fault-tolerant infrastructure that handles scale effortlessly.
+
+---
+
+### 🏆 Architectural Impact & Technical Leadership
+
+#### ☁️ Cloud-Native & Serverless Scale
+* **Enterprise Healthcare Solutions:** Currently architecting scalable serverless applications for a top-tier global healthcare client. Leveraging **Azure Functions (Node.js)**, **Cosmos DB**, and **Azure AI Search** to build robust, cloud-native solutions that meet strict compliance and scalability requirements.
+* **High-Concurrency Infrastructure:** Built a cloud-ready backend for a property management platform supporting **12,000+ Daily Active Users (DAU)**. Optimized infrastructure to handle high concurrency, property scheduling, and complex visit workflows without degradation.
+
+#### 🔄 System Migrations & Microservices
+* **Monolith Eradication:** Spearheaded the rapid transition of core architectures from Nest.js to **Java Spring Boot**, partnering with subject matter experts to establish enterprise-grade best practices for maintainability, fault tolerance, and high-performance system design.
+* **Real-Time Communication:** Engineered a **Twilio-powered** infrastructure integrated with **WhatsApp Flow (JSON)**. This system seamlessly manages hundreds of daily networking calls and schedules with near-zero downtime, completely automating post-call workflows.
+
+#### ⚡ Performance & Data Optimization
+* **API Acceleration:** Integrated **Hasura with GraphQL**, successfully stripping away overhead and reducing API response times by **40%**, which improved total system throughput by 25%.
+* **Financial Data Engineering:** Designed and deployed a custom stock market matching engine. Utilized **TimescaleDB** and **Cassandra** to deliver hyper-efficient read/write operations for massive, time-series data at scale.
+
+#### 🤝 Mentorship & Pod Leadership
+* **Driving Feature Delivery:** Led multiple engineering pods (teams of up to 7 full-stack developers) across various global platforms, including an AI-powered productivity suite and international educational scheduling platforms.
+* **Process Optimization:** Championed the use of **Redis pub/sub** and distributed messaging queues to decouple services, improving real-time inter-service communication and background task processing for junior and mid-level developers to build upon.
+
+---
+
+### 🛠️ The Technical Arsenal
+
+**System Design & Infrastructure**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,nginx,kafka,bash,git" />
+</a>
+
+**Backend & APIs**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,graphql,ts" />
+</a>
+
+**Datastores, Caching & Observability**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,redis,prometheus,grafana" />
+</a>
+
+**Frontend & Mobile Ecosystem**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,figma" />
+</a>
+
+---
+
+### 📝 Publications & Current Explorations
+
+* **Technical Writing:** I actively document my engineering journey and architectural decisions. Read my deep dive on [Developing a Stock Market App Backend](https://geekyants.com/blog/developing-a-stock-market-app-backend/) to see my approach to database selection and API design.
+* **Continuous Learning:** Currently preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam to formally validate my cloud infrastructure expertise.
+* **AI Integration:** Exploring the practical intersection of **AI/Machine Learning** workflows with high-performance hardware and modern backend ecosystems.
+
+---
+
+### ☕ Off the Clock
+
+When I'm not sketching out system designs or reviewing pull requests, I'm usually stepping away from my minimalist mechanical keyboard setup to hit the roads around Delhi on my Royal Enfield. You might also catch me playing an attacking game of doubles on the badminton court, or calculating tactical lines on a chessboard—whether I'm moving physical pieces over a board or grinding matches on Chess.com. 
+
+To unwind, my reading list is fairly eclectic. I enjoy quietly diving into the poetry of Jaun Elia and Ghalib, as well as exploring philosophy, personal finance, self-help, and spirituality.
+
+<br/>
+
+<p align="center">📫 <b>Let's collaborate:</b> <a href="mailto:amanschauhan7@gmail.com">amanschauhan7@gmail.com</a></p>
