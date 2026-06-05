@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.8" fill="#21262d"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <rect width="900" height="280" fill="url(#dots)"/>
+
+  <!-- Circuit trace decorations - right side -->
+  <g opacity="0.25" stroke="#58a6ff" stroke-width="1.5" fill="none">
+    <polyline points="640,50 680,50 680,90 720,90"/>
+    <polyline points="720,90 760,90 760,50 810,50"/>
+    <polyline points="700,155 740,155 740,175 800,175"/>
+    <line x1="800" y1="90" x2="800" y2="175"/>
+    <circle cx="680" cy="50" r="3" fill="#58a6ff" stroke="none" opacity="1"/>
+    <circle cx="720" cy="90" r="3" fill="#58a6ff" stroke="none" opacity="1"/>
+    <circle cx="760" cy="90" r="2.5" fill="#58a6ff" stroke="none" opacity="1"/>
+    <circle cx="800" cy="175" r="3.5" fill="#3fb950" stroke="none" opacity="1"/>
+    <circle cx="740" cy="155" r="2" fill="#58a6ff" stroke="none" opacity="1"/>
+  </g>
+
+  <!-- Glow dots -->
+  <circle cx="848" cy="75" r="5" fill="#58a6ff" opacity="0.3"/>
+  <circle cx="865" cy="145" r="3.5" fill="#3fb950" opacity="0.35"/>
+  <circle cx="830" cy="205" r="4" fill="#58a6ff" opacity="0.2"/>
+  <circle cx="620" cy="200" r="2.5" fill="#58a6ff" opacity="0.2"/>
+
+  <!-- Left vertical accent bar -->
+  <rect x="60" y="65" width="3" height="150" fill="#58a6ff" rx="1.5"/>
+
+  <!-- Role label -->
+  <text x="80" y="96"
+    font-family="Courier New, Courier, monospace"
+    font-size="11"
+    fill="#8b949e"
+    letter-spacing="5">BACKEND ENGINEER  ·  DELHI / NCR</text>
+
+  <!-- Name -->
+  <text x="76" y="175"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="60"
+    font-weight="800"
+    fill="#ffffff">Aman Chauhan</text>
+
+  <!-- Subtitle -->
+  <text x="80" y="218"
+    font-family="Courier New, Courier, monospace"
+    font-size="13"
+    fill="#58a6ff"
+    letter-spacing="1">Distributed Systems  ·  Cloud-Native  ·  5+ yrs enterprise</text>
+</svg>
