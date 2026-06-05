@@ -1,4 +1,4 @@
-<img width="100%" src="./hero.svg" alt="Aman Chauhan — Backend Engineer"/>
+<img width="100%" src="./hero.png" alt="Aman Chauhan — Backend Engineer"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanchauhan06&style=flat-square&color=c9a227&label=PROFILE+VIEWS" alt="profile views"/>
