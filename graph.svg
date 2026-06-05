@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 268" width="900" height="268">
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9a227" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#c9a227" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card background -->
+  <rect width="900" height="268" fill="#0d1117" rx="10"/>
+  <rect x="0.5" y="0.5" width="899" height="267" fill="none" stroke="#21262d" stroke-width="1" rx="9.5"/>
+
+  <!-- title -->
+  <text x="20" y="28" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#c9a227">Contribution Graph</text>
+  <text x="188" y="28" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e"> — last 12 months</text>
+
+  <!-- graph area — offset y+36 to sit below title -->
+  <g transform="translate(40, 36)">
+
+    <!-- gridlines -->
+    <g stroke="#21262d" stroke-width="1">
+      <line x1="10" y1="45" x2="810" y2="45"/>
+      <line x1="10" y1="90" x2="810" y2="90"/>
+      <line x1="10" y1="135" x2="810" y2="135"/>
+      <line x1="10" y1="180" x2="810" y2="180"/>
+    </g>
+
+    <!-- filled area -->
+    <path d="M10,135 L82.7,112.5 L155.5,120 L228.2,90 L300.9,97.5 L373.6,75 L446.4,52.5 L519.1,82.5 L591.8,45 L664.5,67.5 L737.3,37.5 L810,60 L810,180 L10,180 Z" fill="url(#area)"/>
+
+    <!-- gold line -->
+    <path d="M10,135 L82.7,112.5 L155.5,120 L228.2,90 L300.9,97.5 L373.6,75 L446.4,52.5 L519.1,82.5 L591.8,45 L664.5,67.5 L737.3,37.5 L810,60" fill="none" stroke="#e6c45f" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+
+    <!-- data points -->
+    <g fill="#0d1117" stroke="#e6c45f" stroke-width="2">
+      <circle cx="10"    cy="135"   r="3.4"/>
+      <circle cx="82.7"  cy="112.5" r="3.4"/>
+      <circle cx="155.5" cy="120"   r="3.4"/>
+      <circle cx="228.2" cy="90"    r="3.4"/>
+      <circle cx="300.9" cy="97.5"  r="3.4"/>
+      <circle cx="373.6" cy="75"    r="3.4"/>
+      <circle cx="446.4" cy="52.5"  r="3.4"/>
+      <circle cx="519.1" cy="82.5"  r="3.4"/>
+      <circle cx="591.8" cy="45"    r="3.4"/>
+      <circle cx="664.5" cy="67.5"  r="3.4"/>
+      <circle cx="737.3" cy="37.5"  r="3.4"/>
+      <circle cx="810"   cy="60"    r="3.4"/>
+    </g>
+
+    <!-- month labels -->
+    <g fill="#6b7280" font-family="ui-monospace, Courier New, monospace" font-size="11" text-anchor="middle">
+      <text x="10"    y="205">Jun</text>
+      <text x="82.7"  y="205">Jul</text>
+      <text x="155.5" y="205">Aug</text>
+      <text x="228.2" y="205">Sep</text>
+      <text x="300.9" y="205">Oct</text>
+      <text x="373.6" y="205">Nov</text>
+      <text x="446.4" y="205">Dec</text>
+      <text x="519.1" y="205">Jan</text>
+      <text x="591.8" y="205">Feb</text>
+      <text x="664.5" y="205">Mar</text>
+      <text x="737.3" y="205">Apr</text>
+      <text x="810"   y="205">May</text>
+    </g>
+
+  </g>
+</svg>
