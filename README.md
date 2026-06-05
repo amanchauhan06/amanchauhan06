@@ -66,14 +66,8 @@ and problems that are boring to demo but interesting to scale.<br/><br/>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan06&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420"/>
-</p>
-
----
-
 ### 🎯 off the clock
 
-<p align="center">Royal Enfield on Indian roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess &nbsp;·&nbsp; Jaun Elia & Ghalib</p>
+<p align="center">Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess &nbsp;·&nbsp; Jaun Elia & Ghalib</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
