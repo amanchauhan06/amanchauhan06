@@ -43,14 +43,6 @@ Where I add leverage: high-concurrency backends, event-driven architectures, and
 
 ---
 
-<p align="center">
-  <img src="./board.svg" width="340" alt="chess board"/>
-  <br/>
-  <sub>♟ &nbsp; White to move &nbsp; ♟</sub>
-</p>
-
----
-
 ### ♟ TOURNAMENT RECORD
 
 <table width="100%">
