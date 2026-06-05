@@ -8,30 +8,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=Backend+systems+that+scale;Cloud-native+%26+distributed+infra;NestJS+%7C+Spring+Boot+%7C+Flutter;5%2B+years+building+for+enterprise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=c9a227&center=true&vCenter=true&width=460&lines=Thinking+10+moves+ahead...;Distributed+systems+%26+cloud-native+infra;NestJS+%7C+Spring+Boot+%7C+Flutter+%7C+Kubernetes;Endgame%3A+systems+that+don't+break+at+3am" />
 </p>
 
 <br/>
 
 ---
 
-### — PROCESS
+### ♟ OPENING
 
-Backend-heavy generalist. I spend most of my time on distributed systems, cloud-native infrastructure, and the kinds of problems that are boring to demo but interesting to scale.
+Backend-heavy generalist. I design systems the way I play chess — thinking several moves ahead, building positions that hold under pressure, not just solving for what's in front of me.
 
-Where I add leverage: designing systems that survive their own success — high-concurrency backends, event-driven architectures, data layers that don't fall over at 3am.
+Where I add leverage: high-concurrency backends, event-driven architectures, and data layers built to outlast the opening and win the endgame.
 
 ---
 
-### — ACTIVE BUILDS
+### ♟ ACTIVE GAME
 
-- Building a **family health record vault** — Flutter + NestJS + Gemini AI for OCR, auto-tagging, smart reminders
-- Preparing for **AWS SAA-C03** — formalizing what I've been doing in practice
+- Building a **family health record vault** — Flutter + NestJS + Gemini AI for OCR, auto-tagging, and smart reminders
+- Preparing for **AWS SAA-C03** — formalizing what I've been executing in practice
 - Digging into AI/ML integration patterns for production backend systems
 
 ---
 
-### — ARSENAL
+### ♟ PIECE SET
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,java,dart,nodejs,nestjs,spring,flutter,postgres,redis,kafka,docker,kubernetes,azure,aws&perline=7" />
@@ -39,7 +39,7 @@ Where I add leverage: designing systems that survive their own success — high-
 
 ---
 
-### — DEPLOYED
+### ♟ TOURNAMENT RECORD
 
 <table width="100%">
   <tr>
@@ -49,7 +49,7 @@ Where I add leverage: designing systems that survive their own success — high-
     </td>
     <td valign="top" width="50%">
       <h4>Stock market matching engine</h4>
-      Custom engine using TimescaleDB + Cassandra for hyper-efficient time-series reads/writes. <a href="https://geekyants.com/blog/developing-a-stock-market-app-backend/">wrote about it →</a>
+      Custom engine using TimescaleDB + Cassandra for hyper-efficient time-series reads/writes at scale. <a href="https://geekyants.com/blog/developing-a-stock-market-app-backend/">wrote about it →</a>
     </td>
   </tr>
   <tr>
@@ -66,37 +66,68 @@ Where I add leverage: designing systems that survive their own success — high-
 
 ---
 
-### — METRICS
+### ♟ ELO
 
 <table width="100%">
   <tr>
     <td align="center">
       <h2>5+</h2>
-      <sup>Years Engineering</sup>
+      <sup>Years in the game</sup>
     </td>
     <td align="center">
       <h2>12k+</h2>
-      <sup>DAU Served</sup>
+      <sup>Daily users served</sup>
     </td>
     <td align="center">
       <h2>40%</h2>
-      <sup>API Latency Cut</sup>
+      <sup>API latency cut</sup>
     </td>
     <td align="center">
       <h2>3</h2>
-      <sup>Enterprise Clients</sup>
+      <sup>Enterprise clients</sup>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### — DOWNTIME
-
-<p align="center">Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess &nbsp;·&nbsp; Jaun Elia & Ghalib</p>
+<details>
+<summary>♞ How I approach the position</summary>
 
 <br/>
 
+Good architecture is positional, not reactive. I design for where the system needs to be in 18 months — not for the immediate move.
+
+Every API contract, data model, and service boundary is a decision that should improve the overall position. The best moves are the ones that don't just solve the problem in front of you but open up better positions down the line. I learned that from chess. It applies everywhere.
+
+**Tools I live in:** NestJS · Prisma · Docker · Azure · Kubernetes · git
+
+</details>
+
+<details>
+<summary>♟ Thinking out loud</summary>
+
+<br/>
+
+**[Developing a Stock Market App Backend →](https://geekyants.com/blog/developing-a-stock-market-app-backend/)**
+TimescaleDB, matching engines, and why your database choice is your most important architectural move.
+
+Currently studying: AWS architecture (SAA-C03), distributed systems patterns, practical AI/ML integration for backend systems.
+
+</details>
+
+---
+
+### ♟ OFF THE BOARD
+
 <p align="center">
-  <sub>This README was built from scratch — a custom SVG hero, zero external API cards, and a naming convention borrowed from backend systems.<br/>Last deploy · June 2026 · Delhi/NCR</sub>
+Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess (obviously) &nbsp;·&nbsp; Jaun Elia & Ghalib &nbsp;·&nbsp; the occasional late-night chess.com grind
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <sub>Built like a positional game — every element placed with intent. &nbsp; ♟ &nbsp; June 2026 · Delhi/NCR</sub>
 </p>
