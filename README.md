@@ -1,6 +1,10 @@
 <img width="100%" src="./hero.svg" alt="Aman Chauhan — Backend Engineer"/>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanchauhan06&style=flat-square&color=c9a227&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/amanchauhan7"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://twitter.com/amanchauhan06"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/16412404"><img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;
@@ -39,6 +43,14 @@ Where I add leverage: high-concurrency backends, event-driven architectures, and
 
 ---
 
+<p align="center">
+  <img src="./board.svg" width="340" alt="chess board"/>
+  <br/>
+  <sub>♟ &nbsp; White to move &nbsp; ♟</sub>
+</p>
+
+---
+
 ### ♟ TOURNAMENT RECORD
 
 <table width="100%">
@@ -66,63 +78,19 @@ Where I add leverage: high-concurrency backends, event-driven architectures, and
 
 ---
 
-### ♟ ELO
+### ♟ APPROACH
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h2>5+</h2>
-      <sup>Years in the game</sup>
-    </td>
-    <td align="center">
-      <h2>12k+</h2>
-      <sup>Daily users served</sup>
-    </td>
-    <td align="center">
-      <h2>40%</h2>
-      <sup>API latency cut</sup>
-    </td>
-    <td align="center">
-      <h2>3</h2>
-      <sup>Enterprise clients</sup>
-    </td>
-  </tr>
-</table>
+> Good architecture is positional, not reactive. I design for where a system needs to be in 18 months — not for the move in front of me.
 
-<br/>
-
-<details>
-<summary>♞ How I approach the position</summary>
-
-<br/>
-
-Good architecture is positional, not reactive. I design for where the system needs to be in 18 months — not for the immediate move.
-
-Every API contract, data model, and service boundary is a decision that should improve the overall position. The best moves are the ones that don't just solve the problem in front of you but open up better positions down the line. I learned that from chess. It applies everywhere.
+Every API contract, data model, and service boundary is a decision that should open up better positions down the line. I learned that from chess. It applies everywhere.
 
 **Tools I live in:** NestJS · Prisma · Docker · Azure · Kubernetes · git
-
-</details>
-
-<details>
-<summary>♟ Thinking out loud</summary>
-
-<br/>
-
-**[Developing a Stock Market App Backend →](https://geekyants.com/blog/developing-a-stock-market-app-backend/)**
-TimescaleDB, matching engines, and why your database choice is your most important architectural move.
-
-Currently studying: AWS architecture (SAA-C03), distributed systems patterns, practical AI/ML integration for backend systems.
-
-</details>
 
 ---
 
 ### ♟ OFF THE BOARD
 
-<p align="center">
-Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess (obviously) &nbsp;·&nbsp; Jaun Elia & Ghalib &nbsp;·&nbsp; the occasional late-night chess.com grind
-</p>
+<p align="center">Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess (obviously) &nbsp;·&nbsp; Jaun Elia & Ghalib &nbsp;·&nbsp; the occasional late-night chess.com grind</p>
 
 <br/>
 
