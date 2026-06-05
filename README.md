@@ -51,6 +51,12 @@ Every API contract, data model, and service boundary is a decision that should o
 
 <img width="100%" src="./divider.svg" alt=""/>
 
+## By the numbers
+
+<img width="100%" src="./graph.svg" alt="Contribution Graph"/>
+
+<img width="100%" src="./divider.svg" alt=""/>
+
 ## Away from the keyboard
 
 <p align="center">
