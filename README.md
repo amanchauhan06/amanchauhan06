@@ -53,7 +53,7 @@ Every API contract, data model, and service boundary is a decision that should o
 
 ## By the numbers
 
-<img width="100%" src="./graph.svg" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanchauhan06&bg_color=0d1117&color=ece6d8&line=c9a227&point=e6c45f&area=true&area_color=c9a227&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20last%2012%20months" alt="Contribution Graph"/>
 
 <img width="100%" src="./divider.svg" alt=""/>
 
