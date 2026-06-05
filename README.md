@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Chauhan&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud-Native&descAlignY=56&descSize=18"/>
+<img width="100%" src="./hero.svg" alt="Aman Chauhan — Backend Engineer"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amanchauhan7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://twitter.com/amanchauhan06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-  <a href="https://stackoverflow.com/users/16412404"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;
-  <a href="mailto:amanschauhan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amanchauhan7"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/amanchauhan06"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/16412404"><img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;
+  <a href="mailto:amanschauhan7@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -13,25 +13,25 @@
 
 <br/>
 
-<p align="center">
-Backend-heavy generalist — distributed systems, cloud-native infra,<br/>
-and problems that are boring to demo but interesting to scale.<br/><br/>
-<b>Delhi/NCR</b> &nbsp;·&nbsp; 5+ years &nbsp;·&nbsp; enterprise clients &nbsp;·&nbsp; currently: where AI meets backend
-</p>
+---
 
-<br/>
+### — PROCESS
+
+Backend-heavy generalist. I spend most of my time on distributed systems, cloud-native infrastructure, and the kinds of problems that are boring to demo but interesting to scale.
+
+Where I add leverage: designing systems that survive their own success — high-concurrency backends, event-driven architectures, data layers that don't fall over at 3am.
 
 ---
 
-### 🔭 right now
+### — ACTIVE BUILDS
 
-- Building a **family health record vault** — Flutter + NestJS + Gemini AI for OCR, auto-tagging, and smart reminders
+- Building a **family health record vault** — Flutter + NestJS + Gemini AI for OCR, auto-tagging, smart reminders
 - Preparing for **AWS SAA-C03** — formalizing what I've been doing in practice
 - Digging into AI/ML integration patterns for production backend systems
 
 ---
 
-### 🛠️ tech I reach for
+### — ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,java,dart,nodejs,nestjs,spring,flutter,postgres,redis,kafka,docker,kubernetes,azure,aws&perline=7" />
@@ -39,7 +39,7 @@ and problems that are boring to demo but interesting to scale.<br/><br/>
 
 ---
 
-### 🚀 things I've shipped
+### — DEPLOYED
 
 <table width="100%">
   <tr>
@@ -49,7 +49,7 @@ and problems that are boring to demo but interesting to scale.<br/><br/>
     </td>
     <td valign="top" width="50%">
       <h4>Stock market matching engine</h4>
-      Custom engine using TimescaleDB + Cassandra for hyper-efficient time-series reads/writes at scale. <a href="https://geekyants.com/blog/developing-a-stock-market-app-backend/">wrote about it →</a>
+      Custom engine using TimescaleDB + Cassandra for hyper-efficient time-series reads/writes. <a href="https://geekyants.com/blog/developing-a-stock-market-app-backend/">wrote about it →</a>
     </td>
   </tr>
   <tr>
@@ -66,8 +66,37 @@ and problems that are boring to demo but interesting to scale.<br/><br/>
 
 ---
 
-### 🎯 off the clock
+### — METRICS
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h2>5+</h2>
+      <sup>Years Engineering</sup>
+    </td>
+    <td align="center">
+      <h2>12k+</h2>
+      <sup>DAU Served</sup>
+    </td>
+    <td align="center">
+      <h2>40%</h2>
+      <sup>API Latency Cut</sup>
+    </td>
+    <td align="center">
+      <h2>3</h2>
+      <sup>Enterprise Clients</sup>
+    </td>
+  </tr>
+</table>
+
+---
+
+### — DOWNTIME
 
 <p align="center">Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess &nbsp;·&nbsp; Jaun Elia & Ghalib</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br/>
+
+<p align="center">
+  <sub>This README was built from scratch — a custom SVG hero, zero external API cards, and a naming convention borrowed from backend systems.<br/>Last deploy · June 2026 · Delhi/NCR</sub>
+</p>
