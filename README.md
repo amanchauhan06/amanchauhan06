@@ -2,7 +2,7 @@
 
 # hey, I'm Aman 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+systems+%26+cloud-native+infra;Distributed+systems+that+scale;NestJS+%7C+Spring+Boot+%7C+Flutter+%7C+Kubernetes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+systems+%26+cloud-native+infra;Distributed+systems+that+scale;NestJS+%7C+Spring+Boot+%7C+Flutter+%7C+Kubernetes)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@ and the kinds of problems that are boring to demo but interesting to scale.
 
 ---
 
-## 🔭 right now
+## right now
 
 - Building a **family health record vault** — Flutter + NestJS + Gemini AI for OCR, auto-tagging, and smart reminders
 - Preparing for **AWS SAA-C03** — formalizing what I've been doing in practice
@@ -30,13 +30,13 @@ and the kinds of problems that are boring to demo but interesting to scale.
 
 ---
 
-## 🛠 tech I reach for
+## tech I reach for
 
 <img src="https://skillicons.dev/icons?i=ts,java,dart,nodejs,nestjs,spring,flutter,postgres,redis,kafka,docker,kubernetes,azure,aws&perline=7" />
 
 ---
 
-## 🚀 things I've shipped
+## things I've shipped
 
 **Property management platform** — backend for 12k+ DAU. High-concurrency scheduling, complex visit workflows, built to handle load without degradation.
 
@@ -48,12 +48,6 @@ and the kinds of problems that are boring to demo but interesting to scale.
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amanchauhan06&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
----
-
-## 🎯 off the clock
+## off the clock
 
 Royal Enfield on Delhi roads &nbsp;·&nbsp; doubles badminton &nbsp;·&nbsp; positional chess &nbsp;·&nbsp; Jaun Elia & Ghalib
